@@ -36,6 +36,13 @@ I am working as a **MERN Stack Intern** in the **Web Technologies** domain. Curr
 - Implemented basic DOM manipulation such as button click events and form validation.
 - Integrated JS with HTML/CSS to make the webpage more dynamic and functional.
 
+### 📆 05/06/2025
+- Completed the exact setup of the webpage as per the provided design.
+- Watched React tutorial videos to understand and implement unfamiliar parts.
+
+### 📆 06/06/2025
+- Continued watching React tutorial videos to strengthen understanding of core concepts and component structure.
+
 ---
 
 ## 🌐 Current Project
