@@ -43,6 +43,11 @@ I am working as a **MERN Stack Intern** in the **Web Technologies** domain. Curr
 ### 📆 06/06/2025
 - Continued watching React tutorial videos to strengthen understanding of core concepts and component structure.
 
+### 📆 09/06/2025
+- Learned advanced React topics to deepen understanding of core concepts.
+- Began development of a sample React-based Todo List demo website.
+- Implemented basic functionalities including task addition, deletion, and search.
+
 ---
 
 ## 🌐 Current Project
