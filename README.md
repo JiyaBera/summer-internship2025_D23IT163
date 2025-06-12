@@ -63,6 +63,10 @@ Work Update (11/06/25 & 12/06/25)
 
 → Began exploring Redux for state management and understanding its integration within the existing component structure.
 
+Work Update (12/06/25)
+
+→ Reviewed the overall structure and working functionality of the Bitsy app to understand its flow and component organization.
+
 ---
 
 ## 🌐 Current Project
