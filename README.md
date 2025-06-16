@@ -75,6 +75,20 @@ Work Update (13/06/25)
 
 -> Analyzed integration points and prepared the base structure for the new module.
 
+Work Update (16/06/25)
+
+-> Continued working on the Category Management module.
+
+-> Implemented delete functionality with confirmation and proper state updates.
+
+-> Integrated dynamic data loading based on pagination, sorting, and search input.
+
+-> Refined logic for handling table updates and ensured smooth user interaction.
+
+-> Optimized the API call structure to improve performance and reduce unnecessary re-renders.
+
+-> Ensured the UI reflects the latest changes in real-time with appropriate loading indicators.
+
 ---
 
 ## 🌐 Current Project
