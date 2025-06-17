@@ -49,7 +49,7 @@ I am working as a **MERN Stack Intern** in the **Web Technologies** domain. Curr
 - Implemented basic functionalities including task addition, deletion, and search.
 
 ### 📆 11/06/25 & 12/06/25
-→ Applied a custom design theme across the application, including global colors, font styles, and layout structure to establish a consistent visual identity.
+- Applied a custom design theme across the application, including global colors, font styles, and layout structure to establish a consistent visual identity.
 → Styled all core UI elements according to the new design system, ensuring alignment with the overall theme and brand guidelines.
 → Made the entire layout responsive, optimizing the design for various screen sizes and devices.
 → Resolved layout issues in the header and footer to ensure consistent structure and behavior across viewports.
