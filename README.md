@@ -71,6 +71,11 @@ I am working as a **MERN Stack Intern** in the **Web Technologies** domain. Curr
 ### 📆 17/06/25
 - Completed the Category Management module with all required functionalities.
 
+### 📆 18/06/25
+
+- Completed Category Management module using dummy data for testing and layout structuring.
+- Implemented add, update, and delete functionalities with proper state handling.
+
 ---
 
 ## 🌐 Current Project
