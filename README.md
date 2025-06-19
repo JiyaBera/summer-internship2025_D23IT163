@@ -76,6 +76,11 @@ I am working as a **MERN Stack Intern** in the **Web Technologies** domain. Curr
 - Completed Category Management module using dummy data for testing and layout structuring.
 - Implemented add, update, and delete functionalities with proper state handling.
 
+Work Update (19/06/25)
+
+->Watched Redux tutorials to understand integration with React for effective state management.
+
+->Started working on implementing a dialog box component, laying the groundwork for interactive UI elements.
 ---
 
 ## 🌐 Current Project
