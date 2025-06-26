@@ -82,6 +82,18 @@ I am working as a **MERN Stack Intern** in the **Web Technologies** domain. Curr
 ### 📆 20/06/25
 - Explored and understood Redux concepts in-depth, including its types and usage patterns.
 - Gained clarity on state mutation, Redux Toolkit practices, and core differences with classic Redux.
+
+### 📆 23/06/25
+- Started working on RideReach Homepage.
+  
+### 📆 24/06/25
+- Continued working on Home Page for RideReach Website.
+
+### 📆 25/06/25
+- Continued working on Home Page for RideReach Website.
+
+### 📆 26/06/25
+- Continued working on Home Page for RideReach Website.
 ---
 
 ## 🌐 Current Project
