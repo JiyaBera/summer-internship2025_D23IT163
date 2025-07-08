@@ -94,6 +94,21 @@ I am working as a **MERN Stack Intern** in the **Web Technologies** domain. Curr
 
 ### 📆 26/06/25
 - Continued working on Home Page for RideReach Website.
+
+Design changes were made.
+
+### 📆 02/07/25
+- Resolved bugs reported by QA.
+- Initiated development of the About Us page.
+
+### 📆 03/07/25
+- Started implementing the recent design changes as per the updated requirements.
+- Began updating affected sections to reflect the new design elements in website.
+
+Design changes were made again.
+
+### 📆 08/07/25
+- Continued working on homepage layout and styling based on Figma design.
 ---
 
 ## 🌐 Current Project
