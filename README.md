@@ -2,7 +2,7 @@
 
 # 💻 CodesClue Internship - MERN Stack (Web Technologies)
 
-This repository documents my ongoing **12-month Software Development Internship** at **CodesClue, Ahmedabad (Offline)**.  
+This repository documents my ongoing **12-month Software Development Internship** at **CodesClue, Ahmedabad (OnSite)**.  
 I am working as a **MERN Stack Intern** in the **Web Technologies** domain. Currently, I am in the **learning phase**, where I have been assigned the task of **creating a complete website** using **HTML**, **CSS**, and **JavaScript** to strengthen my core frontend skills before diving into full-stack development.
 
 ---
