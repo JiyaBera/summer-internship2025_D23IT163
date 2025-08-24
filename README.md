@@ -2,7 +2,7 @@
 
 # 💻 CodesClue Internship - MERN Stack (Web Technologies)
 
-This repository documents my ongoing **12-month Software Development Internship** at **CodesClue, Ahmedabad (OnSite)**.  
+This repository documents my ongoing **1-month Software Development Internship** at **CodesClue, Ahmedabad (OnSite)**.  
 I am working as a **MERN Stack Intern** in the **Web Technologies** domain. Currently, I am in the **learning phase**, where I have been assigned the task of **creating a complete website** using **HTML**, **CSS**, and **JavaScript** to strengthen my core frontend skills before diving into full-stack development.
 
 ---
@@ -97,33 +97,32 @@ I am working as a **MERN Stack Intern** in the **Web Technologies** domain. Curr
 
 Design changes were made.
 
-### 📆 02/07/25
+### 📆 27/06/25
 - Resolved bugs reported by QA.
 - Initiated development of the About Us page.
 
-### 📆 03/07/25
+### 📆 28/06/25
 - Started implementing the recent design changes as per the updated requirements.
 - Began updating affected sections to reflect the new design elements in website.
 
 Design changes were made again.
 
-### 📆 08/07/25
+### 📆 29/07/25  &  30/06/25
 - Continued working on homepage layout and styling based on Figma design.
+
 ---
 
 ## 🌐 Current Project
 
-> 🎯 **Project:** Responsive website using HTML, CSS, and JavaScript  
-> 🛠️ **Purpose:** To apply and practice core frontend web development skills as part of the internship’s learning phase
+> 🎯 **Project:** Responsive website using React.js and Bootstrap.  
 
 ---
 
 ## 🛠️ Tech Stack (Current Phase)
 
-- `HTML5`
+- `React.js`
 - `CSS3`
 - `JavaScript (ES6)`
 - `Git` & `GitHub` (for version control)
-- `React.js`
 
 > 🙌 Thank you CodesClue for this opportunity to grow and develop as a MERN Stack Developer!
